@@ -9,7 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "three": "^0.152.2"
+  },
   "devDependencies": {
-    "parcel": "^2.9.1"
+    "vite": "^4.3.9"
   }
 }
