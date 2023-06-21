@@ -1,4 +1,4 @@
-# Three.js Sandbox Projest
+<h1 align="center">Three.js Sandbox Projest</h1>
 
 This is a boilerplate project for getting started with Three.js, a popular JavaScript library for creating 3D graphics in the browser. It provides a basic setup and structure to help you start building your own Three.js applications quickly.
 
